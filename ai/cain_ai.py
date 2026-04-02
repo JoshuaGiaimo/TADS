@@ -17,7 +17,7 @@ cain_points = 0
 # ---------------------------------------------------------
 #  INITIALIZE GROQ CLIENT
 # ---------------------------------------------------------
-client = Groq(api_key="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")
+client = Groq(api_key="GROCKKEY")
 print("Groq client initialized.")
 
 # ---------------------------------------------------------
